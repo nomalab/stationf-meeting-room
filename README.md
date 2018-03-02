@@ -1,5 +1,15 @@
-Import Ressource TO station f
------------------------------
+Import Stationf Meeting room to Google
+--------------------------------------
+
+# Purpose
+
+When create meeting in google agenda, be able to select the meeting room booked in hal.
+
+Being able to see where is the meeting room (block number and level) directly in google calendar.
+
+![Building detail](example.png?raw=true "Title")
+
+# How to import ressource
 
 1 - Import building 
 
