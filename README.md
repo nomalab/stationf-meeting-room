@@ -3,26 +3,26 @@ Import Stationf Meeting room to Google
 
 # Purpose
 
-When create meeting in google agenda, be able to select the meeting room booked in hal.
+When creating an event in google agenda, you can select the meeting room you booked with hal.
 
-Being able to see where is the meeting room (block number and level) directly in google calendar.
+This will allow you to see where the meeting room is (block number and level) directly in your calendar.
 
 ![Building detail](example.png?raw=true "Title")
 
-# How to import ressource
+# How to import into gCal
 
 1 - Import building 
 
-- go to your ressource google admin interface. Usually found here : https://admin.google.com/u/1/ac/calendarresources/buildings
-    - if link not working to your admin console > Applications > G suite > Select Google Calendar > Ressources > Buildings
-- import file `building.csv` using the `Bulk upload buildings` button
+- go to the resource category in your google admin interface. Usually found here : https://admin.google.com/u/1/ac/calendarresources/buildings
+    - if the link doesn't work: admin console > Applications > G suite > Select Google Calendar > Ressources > Buildings
+- import `building.csv` using the `Bulk upload buildings` button
 
 2 - Import conference rooms
 
 - go to https://admin.google.com/ac/calendarresources/resources
-- again import file `conference_rooms_create_zone.csv` using the `Bulk upload ressources` button
+- import `conference_rooms_create_zone.csv` using the `Bulk upload ressources` button
 
 
-brought to you by Nomalab. (you can visit us and give :beer: block 6 Street)
+brought to you by Nomalab. (you can visit us and give :beer: block 6 Street/Medialab TF1)
 
 
