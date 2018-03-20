@@ -24,6 +24,6 @@ This will allow you to see where the meeting room is (block number and level) di
 
 :warning: It seems it can take up to 1 or 2 days to appear in Google Calendar in the **Room** tab.
 
-brought to you by Nomalab. (you can visit us and give :beer: block 6 Street/Medialab TF1)
+brought to you by Nomalab and Craft AI. (you can visit us and give :beer: block 6 Street/Medialab TF1, OR Microsoft Mezzanine for craft)
 
 
