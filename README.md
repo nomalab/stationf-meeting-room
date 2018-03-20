@@ -22,6 +22,7 @@ This will allow you to see where the meeting room is (block number and level) di
 - go to https://admin.google.com/ac/calendarresources/resources
 - import `conference_rooms_create_zone.csv` using the `Bulk upload ressources` button
 
+:warning: It seems it can take up to 1 or 2 days to appear in Google Calendar in the **Room** tab.
 
 brought to you by Nomalab. (you can visit us and give :beer: block 6 Street/Medialab TF1)
 
